@@ -42,3 +42,5 @@ https://docs.microsoft.com/en-us/answers/products/sql-server
 https://feedback.azure.com/forums/908035-sql-server
 
 los ejercicios de demostracion son tomados de diferentes de estas fuentes, y se ejecutan sobre la base de datos de prueba ADVENTUREWORKS que Microsoft tiene publicamente disponible para SQL Server o para desplegar en Azure SQL.
+
+https://sqlzoo.net/wiki/AdventureWorks
