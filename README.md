@@ -5,6 +5,8 @@ Durante mi recorrido por el aprendizaje de SQL encontre diferentes elementos, co
 
 https://github.com/MicrosoftDocs/sql-docs/tree/live/docs
 
+https://www.wiley.com/en-us/SQL+For+Dummies%2C+9th+Edition-p-9781119527077
+
 https://github.com/MicrosoftLearning/10985-Introduction_to_SQL_Databases-
 
 https://github.com/MicrosoftLearning/QueryingT-SQL
